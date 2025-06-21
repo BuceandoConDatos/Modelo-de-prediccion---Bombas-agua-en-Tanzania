@@ -50,15 +50,38 @@ Este proyecto busca optimizar el mantenimiento de infraestructura hídrica para 
 ## 🛠️ Requisitos
 
 - Python 3.x
-- Bibliotecas principales:
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `seaborn`
-  - `scikit-learn`
-  - `xgboost` *(opcional)*
+- 
+📦 Librerías utilizadas
+**Lo básico y análisis**
+- pandas
+- numpy
 
-Instalación recomendada:
+**Visualización**
+- matplotlib
+- seaborn
+- plotly
+- pandas.plotting
+
+**Preprocesado**
+- scikit-learn
+- imbalanced-learn
+- scipy
+
+**Modelado**
+- scikit-learn
+- xgboost
+
+**Reducción de dimensionalidad**
+- scikit-learn
+
+**Selección de características**
+- scikit-learn
+
+**Manejo de desbalanceo**
+- imbalanced-learn
+
+
+**Instalación recomendada:**
 
 ```bash
 pip install -r requirements.txt
