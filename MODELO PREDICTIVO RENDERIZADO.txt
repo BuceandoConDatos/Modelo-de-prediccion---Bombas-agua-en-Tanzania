@@ -1,0 +1,3 @@
+Se adjunta el enlace del notebook renderizado por nbviewer, debido a que GitHub no es capaz de procesar todo el código realizado en GoogleColab. Para ver el código en detalle, simplemente se debe descargar el archivo y abrirlo con la herramienta que se desee.
+
+Adjunto el enlace a nbviewer para ver el nb renderizado: https://nbviewer.org/github/BuceandoConDatos/Modelo-de-prediccion---Bombas-agua-en-Tanzania/blob/main/MODELO%20PREDICTIVO%20BOMBAS%20AGUA%20TANZANIA.ipynb
