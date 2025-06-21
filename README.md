@@ -50,7 +50,7 @@ Este proyecto busca optimizar el mantenimiento de infraestructura hídrica para 
 ## 🛠️ Requisitos
 
 - Python 3.x
-- 
+  
 📦 Librerías utilizadas
 **Lo básico y análisis**
 - pandas
